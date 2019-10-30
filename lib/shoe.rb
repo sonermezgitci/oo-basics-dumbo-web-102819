@@ -5,3 +5,5 @@
 end 
 attr_accessor :brand , :color , :size , :material , :condition 
 end 
+def shoe_copped 
+  
