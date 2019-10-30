@@ -12,3 +12,4 @@ end
 def condition
   @shoe
 end 
+end 
